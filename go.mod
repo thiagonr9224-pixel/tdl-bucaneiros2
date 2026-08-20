@@ -1,4 +1,4 @@
-module github.com/neophitusx/tdl-bucaneiros
+module github.com/thiagonr9224-pixel/tdl-bucaneiros2
 
 go 1.25.8
 
