@@ -1,4 +1,4 @@
-module github.com/iyear/tdl
+module github.com/neophitusx/tdl-bucaneiros
 
 go 1.25.8
 
